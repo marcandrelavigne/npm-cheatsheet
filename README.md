@@ -1,2 +1,10 @@
-# npm-cheatsheet
-An exaustive, but usefull, cheatsheet to remember various npm commands.
+#npm cheatsheet
+---
+
+## Update Packages
+```
+npm i -g npm-check-updates
+ncu -u
+npm install
+```
+
